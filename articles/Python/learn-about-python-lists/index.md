@@ -73,6 +73,11 @@ _Reversing a list_
     >>>for value in reversed(my_list):
             print(value)
 
+_Check if a value exist_
+
+    >>>if 9 in my_list:
+            print("The value exists")
+    >>>else print("The value doesn't exists")
 
 **Mutable:**
 
