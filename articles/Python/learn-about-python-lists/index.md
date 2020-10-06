@@ -68,6 +68,12 @@ _Iterate through list_
     >>>for key,value in enumerate(my_list):
             print(f'{key} : {value')
 
+_Reversing a list_
+
+    >>>for value in reversed(my_list):
+            print(value)
+
+
 **Mutable:**
 
 `lists` are mutable containers. Mutable containers are containers that allow changes to which objects are contained by the container. **TODO: ADD MORE?**
