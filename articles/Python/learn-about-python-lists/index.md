@@ -66,7 +66,7 @@ _Wrap around indexing_
 _Iterate through list_
 
     >>>for key,value in enumerate(my_list):
-            print(f'{key} : {value')
+            print(f'{key} : {value}')
 
 _Reversing a list_
 
